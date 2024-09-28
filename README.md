@@ -1,5 +1,5 @@
 ## DIO---Dino
-  <img src=".github/dino.png" alt="dino" width="100%">
+  <img src=".github/github image.png" alt="dino" width="100%">
   
 ### 💻 Projeto
 Desafio Digital Innovation One
